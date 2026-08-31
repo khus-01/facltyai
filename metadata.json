@@ -1,0 +1,7 @@
+{
+  "name": "Faculty Assistant & Academic Admin Dashboard",
+  "description": "Comprehensive faculty management, AI lecture planner, assessment generator, AI meeting assistant, student records, attendance alerts, and academic workflow platform.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
